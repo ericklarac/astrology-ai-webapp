@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/astrology-ai-webapp/precache-manifest.01718f1120f43fbf9570ce7fdc845110.js"
+  "/astrology-ai-webapp/precache-manifest.4ebfb014f845093fe966cb42d7eba160.js"
 );
 
 self.addEventListener('message', (event) => {

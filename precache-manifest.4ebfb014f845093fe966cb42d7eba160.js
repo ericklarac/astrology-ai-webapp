@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01a54bf5babc13941fe1d9165e04704b",
+    "revision": "ff7825a70f43ccf83cbda8bbbcfdaf38",
     "url": "/astrology-ai-webapp/index.html"
   },
   {
