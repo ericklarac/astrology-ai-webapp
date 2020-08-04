@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Answer } from './components/answer';
 import { Button, Grid, Layout } from '@fluentui/react-northstar';
 
-const URL = 'https://b680549cb041.ngrok.io';
+const URL = 'https://astrology-ai-r7mkprv7gq-uc.a.run.app';
 
 export class MyComponent extends React.Component {
 	constructor(props) {
