@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/astrology-ai-webapp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/astrology-ai-webapp/static/js/main.4c199ac5.chunk.js",
-    "main.js.map": "/astrology-ai-webapp/static/js/main.4c199ac5.chunk.js.map",
+    "main.js": "/astrology-ai-webapp/static/js/main.e21dd8d0.chunk.js",
+    "main.js.map": "/astrology-ai-webapp/static/js/main.e21dd8d0.chunk.js.map",
     "runtime-main.js": "/astrology-ai-webapp/static/js/runtime-main.476486bf.js",
     "runtime-main.js.map": "/astrology-ai-webapp/static/js/runtime-main.476486bf.js.map",
     "static/js/2.63cc4000.chunk.js": "/astrology-ai-webapp/static/js/2.63cc4000.chunk.js",
     "static/js/2.63cc4000.chunk.js.map": "/astrology-ai-webapp/static/js/2.63cc4000.chunk.js.map",
     "index.html": "/astrology-ai-webapp/index.html",
-    "precache-manifest.4ebfb014f845093fe966cb42d7eba160.js": "/astrology-ai-webapp/precache-manifest.4ebfb014f845093fe966cb42d7eba160.js",
+    "precache-manifest.9a66811b9b2f8bb6c3eacdd70749c7ad.js": "/astrology-ai-webapp/precache-manifest.9a66811b9b2f8bb6c3eacdd70749c7ad.js",
     "service-worker.js": "/astrology-ai-webapp/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/astrology-ai-webapp/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.63cc4000.chunk.js.LICENSE.txt": "/astrology-ai-webapp/static/js/2.63cc4000.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.476486bf.js",
     "static/js/2.63cc4000.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4c199ac5.chunk.js"
+    "static/js/main.e21dd8d0.chunk.js"
   ]
 }

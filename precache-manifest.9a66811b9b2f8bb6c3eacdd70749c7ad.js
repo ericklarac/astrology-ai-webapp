@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff7825a70f43ccf83cbda8bbbcfdaf38",
+    "revision": "9f1d9f1a259bc4c5d099c7f9f88b327c",
     "url": "/astrology-ai-webapp/index.html"
   },
   {
-    "revision": "f6c66aab44c09e2b3f6d",
+    "revision": "da892aa1f034ca05c35e",
     "url": "/astrology-ai-webapp/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/astrology-ai-webapp/static/js/2.63cc4000.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6c66aab44c09e2b3f6d",
-    "url": "/astrology-ai-webapp/static/js/main.4c199ac5.chunk.js"
+    "revision": "da892aa1f034ca05c35e",
+    "url": "/astrology-ai-webapp/static/js/main.e21dd8d0.chunk.js"
   },
   {
     "revision": "eda1fb28f16b5e13a9cc",
